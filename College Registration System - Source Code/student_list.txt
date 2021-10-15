@@ -1,0 +1,19 @@
+Vincent Oui Guo Bin
+A176165
+123456
+true
+01/01/2021
+Teh Jun Ming
+A176607
+123456
+false
+Ong Jin Yuan
+A175493
+123456
+true
+01/01/2021
+Kok Yao Zhang
+A176818
+123456
+true
+01/01/2021

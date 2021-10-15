@@ -1,0 +1,6 @@
+- Room Number: K14U 202, Facility Damage: Bed, Description of the Facility Damage: -
+
+- Room Number: K14U 202, Facility Damage: Door, Description of the Facility Damage: Door cannot be closed properly
+
+- Room Number: K13A 101, Facility Damage: Bed, Description of the Facility Damage: Bed had spoiled
+
