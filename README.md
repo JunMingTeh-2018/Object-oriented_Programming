@@ -1,3 +1,3 @@
-# Object-oriented_Programming_-OOP-_Project
+# README
 
 Please check (College Registration System - Project Report) to understand more!
