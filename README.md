@@ -1,6 +1,6 @@
 # College Registration System
 
-Object-oriented Programming Project - College Registration System
+Object-oriented Programming (OOP) Project - College Registration System
 
 ---
 
