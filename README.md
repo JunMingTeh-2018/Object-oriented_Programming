@@ -1,6 +1,6 @@
 # College Registration System
 
-University Semester 3 Project - College Registration System
+Object-oriented Programming Project - College Registration System
 
 ---
 
